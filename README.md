@@ -18,6 +18,8 @@ The project I am working on originates from the inventory and marketing teams.
 <li>Dbeaver</li>
 <li>PostgreSQL</li>
 
+<h2><b>Exploration with PostgreSQL and Dbeaver</b></h2>
+<ul></ul>
 
 <h2><b>Tableau Dashboard</b></h2>
 <i>For interactive use, please visit:</i> <a href= 'https://public.tableau.com/views/Kalbe_FinalTask/Kalbe_Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link'>Tableau</a>
