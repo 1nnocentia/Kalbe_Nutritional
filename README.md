@@ -1,7 +1,11 @@
 # Kalbe Nutritional
-The repository is a project-based internship organized by Rakamin Academy in collaboration with Kalbe Nutritional. In this project, I take on the role of a data scientist and learn to solve problems and work on projects that align with the activities of Kalbe Nutritional company.
+The repository is a project-based internship organized by Rakamin Academy in collaboration with Kalbe Nutritional. In this project, I take on the role of a data scientist and learn to solve problems and work on projects that align with the activities of Kalbe Nutritional Company.
 
 The project I am working on originates from the inventory and marketing teams.
+
+<h2>Short Brief about Kalbe Nutritional</h2>
+KALBE Nutritionals is a company engaged in the business of health food and beverages, with a mission to provide the best nutrition solutions for a better life. KALBE Nutritionals offers a range of nutritional products for every stage of life, starting from pregnancy preparation, through pregnancy, nutrition for babies, children, adults, and even the elderly.
+
 <h2><b>Problem Statement:</b></h2>
 <ul><b>Inventory Team:</b> <i>Predicting the sales quantity (quantity) for the overall Kalbe products.</i>
 <li>Knowing the estimated quantity of products sold, the inventory team can create sufficient daily stock supplies.</li>
