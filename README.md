@@ -19,7 +19,16 @@ The project I am working on originates from the inventory and marketing teams.
 <li>PostgreSQL</li>
 
 <h2><b>Exploration with PostgreSQL and Dbeaver</b></h2>
-<ul></ul>
+<ul>
+  <li>Average Customer Age based on Marital Status:<br>
+  </li>
+  <li>Average Customer Age based on Gender:<br>
+  </li>
+  <li>Sotre with Highest Total Quantity:<br>
+  </li>
+  <li>Top Product by Total Amount:<br>
+  </li>
+</ul>
 
 <h2><b>Tableau Dashboard</b></h2>
 <i>For interactive use, please visit:</i> <a href= 'https://public.tableau.com/views/Kalbe_FinalTask/Kalbe_Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link'>Tableau</a>
