@@ -25,15 +25,25 @@ KALBE Nutritionals is a company engaged in the business of health food and bever
 <h2><b>Exploration with PostgreSQL and Dbeaver</b></h2>
 <ul>
   <li>Average Customer Age based on Marital Status:<br>
+    Married = 43<br>
+    Single = 29
   </li>
   <li>Average Customer Age based on Gender:<br>
+    Woman = 40<br>
+    Man = 39
   </li>
   <li>Sotre with Highest Total Quantity:<br>
+    Lingga
   </li>
   <li>Top Product by Total Amount:<br>
+    Cheese Stick
   </li>
 </ul>
 
 <h2><b>Tableau Dashboard</b></h2>
 <i>For interactive use, please visit:</i> <a href= 'https://public.tableau.com/views/Kalbe_FinalTask/Kalbe_Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link'>Tableau</a>
 <div class='tableauPlaceholder' id='viz1690173097347' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ka&#47;Kalbe_FinalTask&#47;Kalbe_Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Kalbe_FinalTask&#47;Kalbe_Dashboard' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ka&#47;Kalbe_FinalTask&#47;Kalbe_Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /></object></div>
+
+<h2>Time Series Model</h2>
+
+<h2>Clustering Model</h2>
