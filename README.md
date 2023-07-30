@@ -45,5 +45,10 @@ KALBE Nutritionals is a company engaged in the business of health food and bever
 <div class='tableauPlaceholder' id='viz1690548098883' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ka&#47;Kalbe_FinalTask&#47;Kalbe_Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Kalbe_FinalTask&#47;Kalbe_Dashboard' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ka&#47;Kalbe_FinalTask&#47;Kalbe_Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /></object></div>
 
 <h2>Time Series Model</h2>
+MAE is found to be 0.24, meaning the model's forecasts differ from the actual values by approximately 0.24 units.
+MAPE is 6.53%, meaning the model's forecasts deviate from the actual values by about 6.53%.
+MSE is 0.08, meaning the model's forecasts have, on average, squared differences of 0.08 with the actual values.
+RMSE is 0.29, meaning the model's forecasts have a root mean squared difference of approximately 0.29 with the actual values.
 
 <h2>Clustering Model</h2>
+From the 2-cluster division, it is found that in cluster 1, customers have a higher preference for Thai Tea, Ginger Candy, and Oat. Meanwhile, in cluster 0, customers have a higher preference for Cheese Stick, Choco bar, Crackers, and Cashew.
