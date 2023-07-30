@@ -52,3 +52,6 @@ RMSE is 0.29, meaning the model's forecasts have a root mean squared difference 
 
 <h2>Clustering Model</h2>
 From the 2-cluster division, it is found that in cluster 1, customers have a higher preference for Thai Tea, Ginger Candy, and Oat. Meanwhile, in cluster 0, customers have a higher preference for Cheese Stick, Choco bar, Crackers, and Cashew.
+
+<h2> Presentation Video </h2>
+For my presentation video, please visit: <a href= 'https://youtu.be/a2uePzbn7ww'> Youtube </a>
